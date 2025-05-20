@@ -6,12 +6,10 @@ const CardDeal = () => (
   <section className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Find a better card deal <br className="sm:block hidden" /> in few easy
-        steps.
+      Money in check.<br className="sm:block hidden" /> Business on track.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis
-        aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.
+      Track every dollar. Stay on top of your business. From smart transaction logging to detailed visual reports, MoneyTrack simplifies financial management for entrepreneurs and small business owners.
       </p>
 
       <Button styles={`mt-10`} />
