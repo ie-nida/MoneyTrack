@@ -132,7 +132,7 @@ export const footerLinks = [
     links: [
       {
         name: "(Link Available)",
-        link: "https://www.hoobank.com/become-a-partner/",
+        link: "https://moneytrack-1.onrender.com/",
       },
     ],
   },
