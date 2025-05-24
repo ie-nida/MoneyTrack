@@ -132,7 +132,7 @@ export const footerLinks = [
     links: [
       {
         name: "(Link Available)",
-        link: "https://moneytrack-1.onrender.com/",
+        link: "https://moneyapp01.netlify.app/",
       },
     ],
   },
